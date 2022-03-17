@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>737513151118-i5nuug9c6kl2gov0bjcqkakh4bhjidpn.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.737513151118-i5nuug9c6kl2gov0bjcqkakh4bhjidpn</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>737513151118-gudv9o6qonfkoev9vlm124n0n05r5b2s.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyC1NG1E92IueMFJlsNRvhG36W33NCnLN0U</string>
+	<key>GCM_SENDER_ID</key>
+	<string>737513151118</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>-RH7469F2F.com.incloux.allkartusa</string>
+	<key>PROJECT_ID</key>
+	<string>all-kart-usa</string>
+	<key>STORAGE_BUCKET</key>
+	<string>all-kart-usa.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:737513151118:ios:f17f8a7dd485ec102547df</string>
+	<key>DATABASE_URL</key>
+	<string>https://all-kart-usa-default-rtdb.firebaseio.com</string>
+</dict>
+</plist>

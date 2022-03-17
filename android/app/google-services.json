@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "737513151118",
+    "project_id": "all-kart-usa",
+    "storage_bucket": "all-kart-usa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:737513151118:android:6ca1fc356d7ff5032547df",
+        "android_client_info": {
+          "package_name": "com.incloux.allkartusa"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "737513151118-gudv9o6qonfkoev9vlm124n0n05r5b2s.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.incloux.allkartusa",
+            "certificate_hash": "44781361d27f73d760054e43026c314cea813723"
+          }
+        },
+        {
+          "client_id": "737513151118-5c7bhjrqp94494dn0gbk8lhv8t5j5ceh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdyMcYNf2B4CiuxtmUWB997NmwZnb4sYs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "737513151118-5c7bhjrqp94494dn0gbk8lhv8t5j5ceh.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "737513151118-c3ec618anpi5dsu4i8tdmk6mpgjrd6mb.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.incloux.allkartusa"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

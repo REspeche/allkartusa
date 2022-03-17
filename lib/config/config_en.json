@@ -1,0 +1,181 @@
+{
+  "HorizonLayout": [
+    {
+      "image": "https://i.imgur.com/dE5DuFl.png",
+      "showLogo": true,
+      "menuIcon": {
+        "fontFamily": "CupertinoIcons",
+        "name": "bars"
+      },
+      "layout": "logo",
+      "showMenu": false,
+      "showSearch": false
+    },
+    {
+      "layout": "category",
+      "hideTitle": false,
+      "marginY": 8,
+      "marginTop": 10,
+      "wrap": true,
+      "items": [
+        {
+          "category": "45",
+          "keepDefaultTitle": true,
+          "image": "https://i.imgur.com/4gpG1zu.png",
+          "originalColor": true,
+          "colors": [
+            "#90CAF9"
+          ],
+          "title": "Chasis"
+        },
+        {
+          "originalColor": true,
+          "colors": [
+            "#90CAF9"
+          ],
+          "keepDefaultTitle": true,
+          "image": "https://i.imgur.com/OOhxRqt.png",
+          "title": "Engines",
+          "category": "46"
+        },
+        {
+          "image": "https://i.imgur.com/5LnUijQ.png",
+          "colors": [
+            "#90CAF9"
+          ],
+          "originalColor": true,
+          "keepDefaultTitle": true,
+          "title": "Parts",
+          "category": "78"
+        },
+        {
+          "category": "53",
+          "image": "https://i.imgur.com/dRAOgwx.png",
+          "colors": [
+            "#90CAF9"
+          ],
+          "originalColor": true,
+          "keepDefaultTitle": true,
+          "title": "Accesories"
+        }
+      ],
+      "marginLeft": 10,
+      "marginBottom": 10,
+      "paddingX": 4,
+      "radius": 50,
+      "size": 1.4,
+      "type": "icon",
+      "columns": 4,
+      "paddingY": 8,
+      "marginRight": 10,
+      "line": false,
+      "marginX": 4
+    },
+    {
+      "name": "On Sale!",
+      "layout": "twoColumn",
+      "category": null,
+      "onSale": true,
+      "isSnapping": true
+    },
+    {
+      "layout": "threeColumn",
+      "category": null,
+      "isSnapping": true,
+      "name": "Featured",
+      "featured": true
+    },
+    {
+      "name": "Races & Events",
+      "layout": "blog"
+    },
+    {
+      "name": "Recent Views",
+      "onSale": true,
+      "layout": "recentView",
+      "featured": true,
+      "isSnapping": true
+    }
+  ],
+  "Setting": {
+    "MainColor": "#03A9F4",
+    "ProductListLayout": "list",
+    "StickyHeader": true,
+    "ProductDetail": "simpleType"
+  },
+  "TabBar": [
+    {
+      "showChat": false,
+      "fontFamily": "CupertinoIcons",
+      "key": "osfkqupog5",
+      "icon": "home",
+      "layout": "home",
+      "pos": 100
+    },
+    {
+      "layout": "category",
+      "icon": "rectangle_grid_1x2",
+      "fontFamily": "CupertinoIcons",
+      "pos": 200,
+      "categoryLayout": "card",
+      "categories": [
+        "45",
+        "46",
+        "78",
+        "53",
+        "159"
+      ]
+    },
+    {
+      "key": "hc3w16codl",
+      "layout": "search",
+      "fontFamily": "CupertinoIcons",
+      "icon": "search",
+      "pos": 300
+    },
+    {
+      "pos": 400,
+      "layout": "cart",
+      "fontFamily": "CupertinoIcons",
+      "key": "d0q6frf8ck",
+      "icon": "shopping_cart"
+    },
+    {
+      "layout": "profile",
+      "icon": "settings",
+      "fontFamily": "CupertinoIcons",
+      "pos": 500,
+      "settings": [
+        "products",
+        "chat",
+        "wishlist",
+        "notifications",
+        "order",
+        "point",
+        "rating"
+      ],
+      "background": "https://i.imgur.com/ZxHh7SQ.jpeg"
+    }
+  ],
+  "Drawer": {
+    "logo": "https://i.imgur.com/qq3kxGF.png",
+    "items": [
+      {
+        "type": "home",
+        "show": true
+      },
+      {
+        "type": "blog",
+        "show": false
+      },
+      {
+        "type": "login",
+        "show": true
+      },
+      {
+        "show": true,
+        "type": "category"
+      }
+    ]
+  }
+}
