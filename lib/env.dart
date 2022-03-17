@@ -75,7 +75,6 @@ Map<String, dynamic> environment =
     "QueryRadiusDistance": 10
   },
   "defaultDrawer": {
-    "logo": "assets/images/logo.png",
     "background": null,
     "items": [
       {
